@@ -3,7 +3,7 @@ Le Code Civil français, sous Git
 
 Introduction
 ------------
-Voici un petit hack, résultat d'une après-midi de code : le code civil sous Git.
+Voici un petit hack, résultat d'un après-midi de code : le code civil sous Git.
 
 Si l'on considère les lois comme un ensemble de textes modifiés par les différentes assemblées de l'Etat, on peut les considérer comme un ensemble de fichiers texte créés de manière collaborative.
 
